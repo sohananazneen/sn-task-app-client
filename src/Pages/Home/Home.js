@@ -1,11 +1,11 @@
 import React from 'react';
-import CompletedTasks from './CompletedTasks';
+import Items from '../Items/Items';
 import Todo from './Todo';
 const Home = () => {
     return (
         <div>
             <Todo></Todo>
-            <CompletedTasks></CompletedTasks>
+            <Items></Items>
         </div>
     );
 };
