@@ -1,3 +1,3 @@
 # Tasks App
 
-[Tasks Management App](https://sn-task-app.web.app/).
+Live site link: [Tasks Management App](https://sn-task-app.web.app/).
