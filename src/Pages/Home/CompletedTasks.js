@@ -8,7 +8,6 @@ const CompletedTasks = () => {
             .then(res => res.json())
             .then(data => setItems(data));
     }, [])
-
     return (
         <>
             <h2 className='text-center font-bold my-6'>To-Do Lists</h2>
